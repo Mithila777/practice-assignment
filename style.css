@@ -1,0 +1,77 @@
+body{
+    margin:0;
+     font-family: 'Poppins', sans-serif;
+}
+.topsection{
+width:100%;
+display: flex;
+background-color: #fefbe9;
+height: 500px;
+}
+.vl{
+    border-left: 4px solid tomato;
+    height: 140px;
+}
+.aboutme{
+    width:50%;
+ margin: 5% 2% 7% 5%;
+ margin-bottom: 10px;
+}
+ h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+}
+ .aboutme p{
+     font-size: 20px;
+ }
+span{
+    color:#ed7966;
+}
+.explorebtn{
+  color:white;
+  background-color: #ed7966;
+  padding: 10px;
+  text-decoration: none;
+  border-radius: 3px;
+  
+
+}
+
+.myimage img{
+    height: 400px;
+    width: 400px;
+    margin-top: 60px;
+
+}
+
+#ourmission{
+text-align: center;
+}
+.bigbox{
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+
+    
+}
+.bigbox img{
+    width:100px;
+    height: 100px;
+
+}
+.bigbox div{
+    text-align: justify;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 10px 10px 20px gray;
+}    
+.mission{
+    background-color: #e1eedd;
+}
+.vission{
+    background-color: #e4ddf4;
+}
+.goal{
+    background-color: palegreen;
+}
